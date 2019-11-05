@@ -1,0 +1,14 @@
+{
+    "groupname": "Author Name or Your Group Name for Component Group",
+    "components": {
+        "name": {
+            "enable": true,
+            "name": "Component name according to the key",
+            "displayNam": "Display name for info tab",
+            "groupNam": "Same as the top",
+            "version": "v1.0.0",
+            "authort": [""],
+            "description": "Component description"
+        }
+    }
+}
